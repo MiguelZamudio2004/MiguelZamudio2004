@@ -42,7 +42,7 @@ Ensamble y mantenimiento de equipos, diagnóstico de hardware y redes, instalaci
 
 ### 🚀 Proyectos
 
-**[ArquiServi](#)** · `PHP` `MySQL`
+**ArquiServi** · `PHP` `MySQL`
 Plataforma para la gestión de servicios profesionales.
 
 **Sistema de Gestión de Biblioteca** · `PHP` `MySQL`

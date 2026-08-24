@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=MiguelZamudio2004&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views">
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer;PHP+%7C+MySQL+%7C+C%2B%2B;Web+Development+%26+IT+Support" alt="Typing SVG">
 
@@ -53,7 +53,13 @@ Experiencia en:
 
 <br><br>
 
-### Base de datos
+### Desarrollo Web
+
+<img src="https://skillicons.dev/icons?i=html,css" width="150">
+
+<br><br>
+
+### Base de Datos
 
 <img src="https://skillicons.dev/icons?i=mysql" width="70">
 
@@ -61,7 +67,13 @@ Experiencia en:
 
 ### Herramientas
 
-<img src="https://skillicons.dev/icons?i=arduino,androidstudio,vscode,git,github" width="300">
+<img src="https://skillicons.dev/icons?i=arduino,androidstudio,vscode" width="220">
+
+<br><br>
+
+### Control de Versiones
+
+<img src="https://skillicons.dev/icons?i=git,github" width="150">
 
 </td>
 

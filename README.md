@@ -31,11 +31,13 @@
 
 Estudiante de **Ingeniería en Sistemas Computacionales** con enfoque en **desarrollo Backend y tecnologías de software**.
 
-Cuenta con experiencia en el desarrollo de aplicaciones web, manejo de bases de datos y construcción de funcionalidades orientadas a la administración de información. También cuenta con experiencia en **soporte técnico**, incluyendo mantenimiento de equipos, diagnóstico de hardware, redes e instalación de sistemas tecnológicos.
+Cuenta con experiencia en el desarrollo de aplicaciones web, manejo de bases de datos y construcción de funcionalidades orientadas a la administración de información.
 
-El trabajo con diferentes proyectos académicos ha permitido desarrollar experiencia práctica con **PHP, MySQL, Java, C++ y Arduino**, aplicando conceptos de programación, bases de datos, seguridad y resolución de problemas.
+También cuenta con experiencia en **soporte técnico**, incluyendo mantenimiento de equipos, diagnóstico de hardware, redes e instalación de sistemas tecnológicos.
 
-Actualmente mantiene un enfoque constante en el aprendizaje y desarrollo de nuevas habilidades dentro del área de **ingeniería de software y desarrollo tecnológico**.
+La participación en distintos proyectos académicos ha permitido adquirir experiencia práctica con **PHP, MySQL, Java, C++, Arduino y herramientas de desarrollo**, aplicando conceptos de programación, bases de datos, seguridad y resolución de problemas.
+
+Actualmente mantiene un enfoque constante en el aprendizaje y fortalecimiento de habilidades dentro del área de **ingeniería de software y desarrollo tecnológico**.
 
 </td>
 
@@ -133,7 +135,7 @@ Actualmente mantiene un enfoque constante en el aprendizaje y desarrollo de nuev
 
 `PHP` `MySQL`
 
-Plataforma orientada a la gestión de servicios profesionales.
+Plataforma orientada a la gestión de servicios profesionales y administración de servicios.
 
 </td>
 
@@ -183,13 +185,13 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" align="center" valign="middle">
 
 <img src="https://ghstats.dev/api/card?username=MiguelZamudio2004&theme=tokyonight&border_radius=50" width="400" alt="GitHub Stats">
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center" valign="middle">
 
 <img src="https://ghstats.dev/api/langs?username=MiguelZamudio2004&theme=tokyonight&max_langs=12&layout=donut_vertical" width="400" alt="Top Languages">
 
@@ -228,7 +230,7 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 
 <a href="https://github.com/MiguelZamudio2004">
 
-<img src="https://img.shields.io/badge/GitHub-MiguelZamudio2004-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-MiguelZamudio2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 </a>
 

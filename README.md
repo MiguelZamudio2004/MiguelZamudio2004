@@ -29,15 +29,13 @@
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de **Ingeniería en Sistemas Computacionales** con experiencia en desarrollo Backend y soporte técnico.
+Estudiante de **Ingeniería en Sistemas Computacionales** con enfoque en **desarrollo Backend y tecnologías de software**.
 
-Experiencia en:
+Cuenta con experiencia en el desarrollo de aplicaciones web, manejo de bases de datos y construcción de funcionalidades orientadas a la administración de información. También cuenta con experiencia en **soporte técnico**, incluyendo mantenimiento de equipos, diagnóstico de hardware, redes e instalación de sistemas tecnológicos.
 
-* ⚙️ Desarrollo Backend
-* 🗄️ Bases de datos
-* 🌐 Desarrollo web
-* 🔧 Soporte técnico
-* 🖥️ Mantenimiento de equipos
+El trabajo con diferentes proyectos académicos ha permitido desarrollar experiencia práctica con **PHP, MySQL, Java, C++ y Arduino**, aplicando conceptos de programación, bases de datos, seguridad y resolución de problemas.
+
+Actualmente mantiene un enfoque constante en el aprendizaje y desarrollo de nuevas habilidades dentro del área de **ingeniería de software y desarrollo tecnológico**.
 
 </td>
 
@@ -95,11 +93,11 @@ Experiencia en:
 
 `PHP` `MySQL`
 
-* Desarrollo de funcionalidades CRUD
-* Gestión de bases de datos
-* Autenticación de usuarios
-* Hashing de contraseñas
-* Prevención de SQL Injection
+- Desarrollo de funcionalidades CRUD
+- Gestión de bases de datos
+- Autenticación de usuarios
+- Hashing de contraseñas
+- Prevención de SQL Injection
 
 </td>
 
@@ -111,11 +109,11 @@ Experiencia en:
 
 `Hardware` `Redes` `POS` `Videovigilancia`
 
-* Ensamble y mantenimiento de equipos
-* Diagnóstico de hardware
-* Solución de problemas de red
-* Instalación de sistemas POS
-* Instalación de videovigilancia
+- Ensamble y mantenimiento de equipos
+- Diagnóstico de hardware
+- Solución de problemas de red
+- Instalación de sistemas POS
+- Instalación de videovigilancia
 
 </td>
 
@@ -169,7 +167,7 @@ Sistema de monitoreo y automatización mediante sensores y componentes electrón
 
 `Arduino` `C++`
 
-Proyecto de robótica enfocado en programación, control e integración de componentes electrónicos.
+Proyecto de robótica enfocado en programación, control e integración de componentes.
 
 </td>
 

@@ -4,19 +4,20 @@
 
 ### 💻 Backend Developer · 🎓 Ingeniería en Sistemas Computacionales
 
-<img src="https://komarev.com/ghpvc/?username=MiguelZamudio2004&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Backend+Developer;PHP+%7C+MySQL+%7C+C%2B%2B;Desarrollo+Web+%7C+Bases+de+Datos;Software+Development+%7C+IT+Support" alt="Typing SVG">
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MiguelZamudio2004&label=Profile%20Views&color=8f14c8&style=flat-square" alt="Profile Views">
+  <a href="https://github.com/MiguelZamudio2004">
+    <img src="https://img.shields.io/badge/GitHub-MiguelZamudio2004-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer;PHP+%7C+MySQL+%7C+C%2B%2B;Web+Development+%26+IT+Support" alt="Typing SVG">
-
-<br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF">
-
-<br>
-
-**Desarrollo Backend · Bases de Datos · Soporte TI**
+**Backend · Bases de Datos · Desarrollo Web · Soporte TI**
 
 </div>
 
@@ -29,15 +30,13 @@
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de **Ingeniería en Sistemas Computacionales** con enfoque en **desarrollo Backend y tecnologías de software**.
+Estudiante de **Ingeniería en Sistemas Computacionales** con experiencia práctica en **desarrollo Backend, bases de datos y soporte técnico**.
 
-Cuenta con experiencia en el desarrollo de aplicaciones web, manejo de bases de datos y construcción de funcionalidades orientadas a la administración de información.
+He participado en proyectos de desarrollo web utilizando **PHP y MySQL**, trabajando con operaciones CRUD, autenticación de usuarios, manejo seguro de contraseñas y prevención de vulnerabilidades como **SQL Injection**.
 
-También cuenta con experiencia en **soporte técnico**, incluyendo mantenimiento de equipos, diagnóstico de hardware, redes e instalación de sistemas tecnológicos.
+También cuento con experiencia en soporte tecnológico, incluyendo **ensamble y mantenimiento de equipos, redes, sistemas POS y videovigilancia**.
 
-La participación en distintos proyectos académicos ha permitido adquirir experiencia práctica con **PHP, MySQL, Java, C++, Arduino y herramientas de desarrollo**, aplicando conceptos de programación, bases de datos, seguridad y resolución de problemas.
-
-Actualmente mantiene un enfoque constante en el aprendizaje y fortalecimiento de habilidades dentro del área de **ingeniería de software y desarrollo tecnológico**.
+Además del desarrollo de software, he trabajado en proyectos de **robótica y automatización con Arduino y C++**, combinando programación, electrónica y resolución de problemas.
 
 </td>
 
@@ -45,35 +44,27 @@ Actualmente mantiene un enfoque constante en el aprendizaje y fortalecimiento de
 
 ## 🛠️ Stack
 
-<br>
-
 ### Lenguajes
 
-<img src="https://skillicons.dev/icons?i=php,java,cpp" width="220">
-
-<br><br>
-
-### Desarrollo Web
-
-<img src="https://skillicons.dev/icons?i=html,css" width="150">
+<img src="https://skillicons.dev/icons?i=php,java,cpp,html,css" height="48">
 
 <br><br>
 
 ### Base de Datos
 
-<img src="https://skillicons.dev/icons?i=mysql" width="70">
+<img src="https://skillicons.dev/icons?i=mysql" height="48">
 
 <br><br>
 
 ### Herramientas
 
-<img src="https://skillicons.dev/icons?i=arduino,androidstudio,vscode" width="220">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino" height="48">
 
 <br><br>
 
-### Control de Versiones
+### Entorno
 
-<img src="https://skillicons.dev/icons?i=git,github" width="150">
+<img src="https://skillicons.dev/icons?i=linux" height="48">
 
 </td>
 
@@ -89,14 +80,14 @@ Actualmente mantiene un enfoque constante en el aprendizaje y fortalecimiento de
 
 <td width="50%" valign="top">
 
-### Backend Developer
+### ⚙️ Backend Developer
 
 **Sistema de Gestión de Biblioteca**
 
 `PHP` `MySQL`
 
 - Desarrollo de funcionalidades CRUD
-- Gestión de bases de datos
+- Diseño y gestión de bases de datos
 - Autenticación de usuarios
 - Hashing de contraseñas
 - Prevención de SQL Injection
@@ -105,7 +96,7 @@ Actualmente mantiene un enfoque constante en el aprendizaje y fortalecimiento de
 
 <td width="50%" valign="top">
 
-### IT Support Technician
+### 🖥️ IT Support Technician
 
 **NextByte**
 
@@ -115,7 +106,7 @@ Actualmente mantiene un enfoque constante en el aprendizaje y fortalecimiento de
 - Diagnóstico de hardware
 - Solución de problemas de red
 - Instalación de sistemas POS
-- Instalación de videovigilancia
+- Instalación de sistemas de videovigilancia
 
 </td>
 
@@ -124,7 +115,7 @@ Actualmente mantiene un enfoque constante en el aprendizaje y fortalecimiento de
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Proyectos destacados
 
 <table>
 <tr>
@@ -133,9 +124,9 @@ Actualmente mantiene un enfoque constante en el aprendizaje y fortalecimiento de
 
 ### 🏗️ ArquiServi
 
-`PHP` `MySQL`
+Plataforma orientada a conectar clientes con profesionales y gestionar la contratación de servicios.
 
-Plataforma orientada a la gestión de servicios profesionales y administración de servicios.
+Proyecto enfocado en el análisis, diseño y desarrollo de una plataforma completa de servicios profesionales.
 
 </td>
 
@@ -145,7 +136,15 @@ Plataforma orientada a la gestión de servicios profesionales y administración 
 
 `PHP` `MySQL`
 
-Sistema web para la administración de información bibliotecaria mediante operaciones CRUD y autenticación.
+Sistema web para gestionar información bibliotecaria, usuarios, libros, préstamos y multas.
+
+Incluye autenticación, operaciones CRUD y medidas de seguridad en Backend.
+
+<br>
+
+<a href="https://github.com/MiguelZamudio2004/Biblioteca">
+  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=flat-square&logo=github&logoColor=white">
+</a>
 
 </td>
 
@@ -159,7 +158,9 @@ Sistema web para la administración de información bibliotecaria mediante opera
 
 `Arduino` `C++`
 
-Sistema de monitoreo y automatización mediante sensores y componentes electrónicos.
+Sistema de monitoreo mediante sensores para obtener información del entorno en tiempo real.
+
+El proyecto integró componentes electrónicos, programación y una aplicación móvil para visualizar información.
 
 </td>
 
@@ -169,7 +170,9 @@ Sistema de monitoreo y automatización mediante sensores y componentes electrón
 
 `Arduino` `C++`
 
-Proyecto de robótica enfocado en programación, control e integración de componentes.
+Proyecto de robótica enfocado en programación, control e integración de componentes electrónicos.
+
+🏆 **4.º lugar durante dos años consecutivos** en competencia con ZigZag Robotics.
 
 </td>
 
@@ -202,11 +205,11 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelZamudio2004&theme=tokyonight&hide_border=true" width="500" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelZamudio2004&theme=tokyonight&hide_border=true&border_radius=15" width="500" alt="GitHub Streak">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelZamudio2004&theme=tokyo-night&hide_border=true&area=true" width="850" alt="GitHub Activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelZamudio2004&theme=tokyo-night&hide_border=true&area=true&radius=16" width="95%" alt="GitHub Activity Graph">
 
 </div>
 
@@ -217,9 +220,7 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 ## 🎧 Spotify
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315i32swmwdds4p35mexsrfnpdti&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=8f14c8&bar_color_cover=false" width="400" alt="Spotify">
-
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315i32swmwdds4p35mexsrfnpdti&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=8f14c8&bar_color_cover=false" width="400" alt="Spotify">
 </a>
 
 </div>
@@ -228,14 +229,16 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 
 <div align="center">
 
+### Miguel Zamudio
+
+`Backend Development` · `Software Engineering` · `Technology`
+
 <a href="https://github.com/MiguelZamudio2004">
-
-<img src="https://img.shields.io/badge/GitHub-MiguelZamudio2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
+  <img src="https://img.shields.io/badge/GitHub-MiguelZamudio2004-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7AA2F7&height=120&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f14c8,50:7AA2F7,100:1a1b27&height=120&section=footer" width="100%" alt="Footer">

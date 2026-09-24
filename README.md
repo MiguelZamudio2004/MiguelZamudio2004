@@ -29,25 +29,25 @@
 <table>
 <tr>
 
-<td width="58%" valign="middle">
+<td width="56%" valign="middle">
 
 ## 👨‍💻 Sobre mí
 
 Soy estudiante de **Ingeniería en Sistemas Computacionales**, enfocado principalmente en **desarrollo Backend, bases de datos y desarrollo de software**.
 
-Cuento con experiencia práctica desarrollando aplicaciones web con **PHP y MySQL**, trabajando con operaciones CRUD, autenticación de usuarios, manejo seguro de contraseñas y medidas de seguridad como prevención de **SQL Injection**.
+Tengo experiencia desarrollando aplicaciones web con **PHP y MySQL**, trabajando con operaciones CRUD, autenticación de usuarios, almacenamiento seguro de contraseñas y medidas de seguridad como la prevención de **SQL Injection**.
 
-También tengo experiencia en **soporte técnico**, incluyendo ensamble y mantenimiento de equipos, diagnóstico de hardware, redes, sistemas POS y videovigilancia.
+También cuento con experiencia en **soporte técnico**, incluyendo mantenimiento de equipos, diagnóstico de hardware, redes, sistemas POS y videovigilancia.
 
-Además del desarrollo de software, he participado en proyectos de **robótica y automatización con Arduino y C++**, combinando programación, electrónica y resolución de problemas.
+Además, he participado en proyectos de **robótica y automatización con Arduino y C++**, combinando programación, electrónica y resolución de problemas.
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="44%" align="center" valign="middle">
 
 <img
-  src="https://media.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy.gif"
-  width="300"
+  src="https://media1.tenor.com/m/uA9NpxgqNKIAAAAd/gojo-satoru-satoru-gojo.gif"
+  width="330"
   alt="Gojo Satoru"
 />
 
@@ -67,51 +67,47 @@ Además del desarrollo de software, he participado en proyectos de **robótica y
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 💻 Lenguajes
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=php,java,cpp,html,css"
-    height="48"
-    alt="Lenguajes"
-  />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=php,java,cpp,html,css"
+  height="48"
+  alt="Lenguajes"
+/>
+
+<br><br>
 
 ### 🗄️ Base de Datos
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=mysql"
-    height="48"
-    alt="MySQL"
-  />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=mysql"
+  height="48"
+  alt="MySQL"
+/>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🛠️ Herramientas
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino"
-    height="48"
-    alt="Herramientas"
-  />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino"
+  height="48"
+  alt="Herramientas"
+/>
+
+<br><br>
 
 ### 🐧 Entorno
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=linux"
-    height="48"
-    alt="Linux"
-  />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=linux"
+  height="48"
+  alt="Linux"
+/>
 
 </td>
 
@@ -174,7 +170,7 @@ Además del desarrollo de software, he participado en proyectos de **robótica y
 
 Plataforma orientada a conectar **clientes con profesionales** y facilitar la contratación y gestión de servicios.
 
-El proyecto contempla análisis de requerimientos, diseño del sistema, gestión de usuarios y desarrollo de distintos módulos para la plataforma.
+Proyecto centrado en análisis de requerimientos, diseño del sistema, gestión de usuarios y desarrollo de diferentes módulos para una plataforma de servicios profesionales.
 
 </td>
 
@@ -184,7 +180,7 @@ El proyecto contempla análisis de requerimientos, diseño del sistema, gestión
 
 `PHP` `MySQL`
 
-Sistema web para administrar:
+Sistema web para la gestión de:
 
 - Usuarios
 - Libros
@@ -242,14 +238,13 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 ## 📊 GitHub
 
 <table>
-
 <tr>
 
 <td width="50%" align="center" valign="middle">
 
 <img
   src="https://ghstats.dev/api/card?username=MiguelZamudio2004&theme=tokyonight&border_radius=50"
-  width="400"
+  height="180"
   alt="GitHub Stats"
 />
 
@@ -259,14 +254,13 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 
 <img
   src="https://ghstats.dev/api/langs?username=MiguelZamudio2004&theme=tokyonight&max_langs=12&layout=donut_vertical"
-  width="400"
+  height="180"
   alt="Top Languages"
 />
 
 </td>
 
 </tr>
-
 </table>
 
 <br>

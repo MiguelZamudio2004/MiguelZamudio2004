@@ -235,7 +235,9 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 
 <div align="center">
 
-## 📊 GitHub
+# 📊 GitHub
+
+### Estadísticas generales
 
 <table>
 <tr>
@@ -243,8 +245,8 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 <td width="50%" align="center" valign="middle">
 
 <img
-  src="https://ghstats.dev/api/card?username=MiguelZamudio2004&theme=tokyonight&border_radius=50"
-  height="180"
+  src="https://ghstats.dev/api/card?username=MiguelZamudio2004&theme=tokyonight&border_radius=30"
+  width="100%"
   alt="GitHub Stats"
 />
 
@@ -254,7 +256,7 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 
 <img
   src="https://ghstats.dev/api/langs?username=MiguelZamudio2004&theme=tokyonight&max_langs=12&layout=donut_vertical"
-  height="180"
+  width="100%"
   alt="Top Languages"
 />
 
@@ -265,19 +267,51 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 
 <br>
 
+### 📈 Actividad y contribuciones
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelZamudio2004&theme=tokyonight&animation=draw"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
+
+<br><br>
+
+### 🔥 Racha de contribuciones
+
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelZamudio2004&theme=tokyonight&hide_border=true&border_radius=15"
-  width="520"
+  width="70%"
   alt="GitHub Streak"
 />
 
 <br><br>
 
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelZamudio2004&theme=tokyo-night&hide_border=true&area=true&radius=16"
-  width="95%"
-  alt="GitHub Activity Graph"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelZamudio2004&theme=tokyonight&animation=load"
+  width="100%"
+  alt="GitHub Summary Stats"
 />
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelZamudio2004&theme=tokyonight&utcOffset=-6&animation=load"
+  width="100%"
+  alt="GitHub Productive Time"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -303,7 +337,7 @@ Proyecto de robótica enfocado en programación, control e integración de compo
 
 <div align="center">
 
-### Miguel Zamudio
+### 💻 Miguel Zamudio
 
 `Backend Development` · `Software Engineering` · `Technology`
 
